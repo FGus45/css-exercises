@@ -1,0 +1,12 @@
+.index-p { background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
+
+.adjust-font-size {font-size: 24px;} 
+
+#div1 {color: blue;
+font-size: 32px;}
+
+#div2 {background-color:#3cff68;font-size: 24px;
+    font-weight: bold;
+}
